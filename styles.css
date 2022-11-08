@@ -1,0 +1,22 @@
+body  /*Incapsulates and changes the parameterrs of all sub elements insdie the body */{ 
+    text-align: center; /*Centers all elements on the page, more efficent the centering the image, h1, h2 seperatley */
+    font-family:Georgia, 'Times New Roman', Times, serif; /* sets page font*/
+}
+h1 /*changes the parameters for Header 1 */ {
+    color:rgb(151, 30, 8); /* Sets text color*/
+    font-family:  impact,sans-serif; /*changes font family */
+    font-size: 325% /* Inlarges the text*/
+}
+h2 /*changes the parameters for header 2 */{
+    color:rgb(151, 30, 8); /* Sets text color*/
+    font-family:  impact,sans-serif; /*changes font family */
+    font-size: 200% /* Inlarges the text*/
+}
+#one /*Changes the parameters for elements with the ID one */ {
+    text-align: left; /* Moves the paragraph to the left hand side */
+    font-size: 195%; /* inlarges the text*/
+}
+#two /*Changes the parameters for elements with the ID two */{
+    text-align: left; /* Moves the paragraph to the left hand side */
+    font-size: 120%; /* inlarges the text*/
+}
